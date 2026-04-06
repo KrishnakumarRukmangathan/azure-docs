@@ -777,6 +777,7 @@ The following table depicts the behavior of Mapping Data Flows when interacting 
 |                      | Source | No  | Operation fails |
 |                      | Sink   | Yes | Operation succeeds |
 |                      | Sink   | No  | Operation fails or may result in unexpected behavior |
+
 ## Lookup activity properties
 
 To learn details about the properties, check [Lookup activity](control-flow-lookup-activity.md).
